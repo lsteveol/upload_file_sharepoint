@@ -1,4 +1,5 @@
-# upload_file_sharepoint
+upload_file_sharepoint
+========================
 Uploads a file to Sharepoint from Linux. Because why would you want to actually use sharepoint?
 
 Requires shareplum install
@@ -6,10 +7,12 @@ Requires shareplum install
 This will upload a file to SharePoint/OneDrive authenticating using your username and password. The Password prompt will hide your password typing. 
 
 .. warning ::
-
+  
   I'm not a security expert, I cannot say this is secure because I just don't know.
+
   
 Required arguments:
+-------------------
 
 ``-f, -file``
 
