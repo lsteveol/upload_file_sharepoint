@@ -15,7 +15,6 @@ Required arguments:
 -------------------
 
 ``-f, -file``
-
   File to upload. There is one requirement that the file you are uploading needs to be in the directory you run this script from. E.g. you want to upload ``test.txt``. You need to make sure you run this from the directory that ``test.txt`` is in. Don't pass ``some/dir/test.txt``. 
   
 ``-u, -user``
